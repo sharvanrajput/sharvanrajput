@@ -1,7 +1,6 @@
-
 <div align="center">
 
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Sharvan
 
 ### 🚀 Full-Stack JavaScript Developer | Real-Time Applications Enthusiast
 
@@ -69,9 +68,11 @@ const currentFocus = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharvan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharvan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sharvan&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
 
 </div>
 
@@ -116,14 +117,25 @@ const currentFocus = {
 
 ---
 
+## 🏆 Achievements & Highlights
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=sharvan&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15)
+
+</div>
+
+---
+
 ## 📫 Let's Connect!
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharvan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharvan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sharvan.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharvan@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sharvan)
 
 </div>
 
@@ -132,10 +144,18 @@ const currentFocus = {
 <div align="center">
 
 ### 💭 Developer Quote
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 👁️ Profile Views
-![Visitor Count](https://profile-counter.glitch.me/your-username/count.svg)
+
+![Visitor Count](https://profile-counter.glitch.me/sharvan/count.svg)
+
+---
+
+### 🎨 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sharvan&theme=react-dark&hide_border=true&area=true)
 
 ---
 
