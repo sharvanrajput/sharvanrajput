@@ -1,83 +1,84 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Sharvan%20&fontSize=90&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=karmic&color=auto&height=280&section=header&text=Sharvan%20Kumar&fontSize=95&animation=fadeIn&fontAlignY=40" width="100%" />
 
-  # 👋 I'm Sharvan
-  ### ⚡ MERN Stack Architect & Creative Developer ⚡
+  <br/>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;Next.js+and+React+Expert;Full+Stack+Solutions+Provider;Always+Learning+New+Tech)](https://git.io/typing-svg)
+  ### 🪐 Full Stack Alchemist | MERN Specialist
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&pause=1000&color=7B61FF&center=true&vCenter=true&width=500&lines=NEXT.JS+ARCHITECTURE;REAL-TIME+SYSTEMS;SCALABLE+BACKENDS;PIXEL+PERFECT+UI)](https://git.io/typing-svg)
 
   ---
-  
-  [**Portfolio**](https://your-portfolio.com) • [**LinkedIn**](https://linkedin.com/in/your-profile) • [**Twitter**](https://twitter.com/your-profile)
+
+  <p align="center">
+    <a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  </p>
 </div>
 
 ---
 
-## 🚀 About Me
-- 👨‍💻 I am a **MERN Stack Developer** with a passion for clean code and UI/UX.
-- 🛠️ Specialized in building high-performance applications with **Next.js 14+**.
-- 💳 Experienced in integrating **Stripe/Razorpay** and real-time features using **Socket.io**.
-- ☁️ Skilled in deploying and managing cloud environments.
+## 💎 The Tech Vault
 
----
-
-## 🛠️ My Technical Toolbox
-
-<table align="center">
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/---%20FRONTEND%20DEVELOPMENT%20----%23212121?style=for-the-badge" /><br/><br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <td align="left" valign="top" width="33%">
+      <h3>🎨 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" /><br/>
+      <b>UI/UX:</b> Shadcn UI, Framer Motion
     </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/---%20BACKEND%20%26%20DATABASE%20---%23212121?style=for-the-badge" /><br/><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-      <img src="https://img.shields.io/badge/RTK_Query-3178C6?style=for-the-badge&logo=redux&logoColor=white" />
+    <td align="left" valign="top" width="33%">
+      <h3>⚙️ Backend</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postman" /><br/>
+      <b>Real-time:</b> Socket.io, WebSockets
+    </td>
+    <td align="left" valign="top" width="33%">
+      <h3>🧠 State & Tools</h3>
+      <img src="https://skillicons.dev/icons?i=redux,git,github,vscode,vercel" /><br/>
+      <b>Logic:</b> RTK Query, Context API
     </td>
   </tr>
 </table>
 
 ---
 
-## 📈 GitHub Activity
+## ⚡ Key Specializations
+- 🚀 **Performance:** Server-side rendering with **Next.js**.
+- 💳 **Commerce:** Secure Payment Gateways (Stripe/Razorpay).
+- 🔌 **Connectivity:** Real-time data sync using **Socket.io**.
+- 🧪 **Architecture:** Modular, reusable component design with **RTK Query**.
+
+---
+
+## 📊 Performance Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=10" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&border_radius=10" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=7B61FF&icon_color=7B61FF&text_color=ffffff" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=7B61FF&text_color=ffffff" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&border_radius=10" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&stroke=7B61FF&ring=7B61FF&fire=7B61FF&currStreakLabel=7B61FF" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=transparent" width="100%" />
 </div>
 
 ---
 
-## 🛠️ Infrastructure & Deployment
+## 🛠️ Current Activity
 <p align="center">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&bg_color=00000000&color=7B61FF&line=7B61FF&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
-</div>
-
-<div align="center">
-  <sub>Built with ❤️ by Sharvan</sub>
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=auto&height=100&section=footer&text=Innovating%20One%20Commit%20at%20a%20Time&fontSize=20&animation=fadeIn" width="100%" />
+  
+  <br/>
+  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=7B61FF&style=flat-square&label=PROFILE+VIEWS)
 </div>
